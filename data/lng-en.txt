@@ -1,0 +1,4 @@
+-- EN localization file for the WORD SHOT game http://undrev.com/wordshot/
+-- Contributors/credits: Undrev, ...
+
+PLANNED
