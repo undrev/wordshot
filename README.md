@@ -7,7 +7,7 @@ In "Challenge" mode you have only few seconds per word. In "Relax" mode there is
 
 WORD SHOT is available for Windows (32b/64b), Linux (64b) and Mac OSX (64b). There is also a Web version to play online.
 
-See the [WORD SHOT official site](http://undrev.com/wordshot/) for more information.
+See the [WORD SHOT official site](https://undrev.com/wordshot/) for more information.
 
 Contribution
 ------------
